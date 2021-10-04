@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JeroenvdBurg
-- 👀 I’m interested in .NET Core, Axure , Devops
+- 👀 I’m interested in .NET Core, Azure , Devops
 - 🌱 I’m currently learning Bicep
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me @signatoryrocket
